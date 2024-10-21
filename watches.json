@@ -1,0 +1,23 @@
+[{
+    "1": {
+      "name": "Apple Watch Series 9",
+      "price": 399
+    },
+    "2": {
+      "name": "Samsung Galaxy Watch 6",
+      "price": 349
+    },
+    "3": {
+      "name": "Garmin Fenix 7",
+      "price": 699
+    },
+    "4": {
+      "name": "Fitbit Sense 2",
+      "price": 299
+    },
+    "5": {
+      "name": "Amazfit GTR 4",
+      "price": 199
+    }
+  }
+  ]
